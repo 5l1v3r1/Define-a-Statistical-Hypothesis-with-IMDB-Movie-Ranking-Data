@@ -1,7 +1,7 @@
 # Correlation of "Citizens' Evaluations About Foreign Movies" in The Shade of "Governments' Official Policy"
 ## A Study of in The Example of US Citizens Voting about Iranian and Russian Movies
 
-My theoretical hypothesis is; “The evaluations of citizens’ voting about foreign movies are not influenced by the governments' official policy”.
+My theoretical hypothesis is; “__The evaluations of citizens’ voting about foreign movies are not influenced by the governments' official policy__”.
  
 Because of the exhaustive hypothesis, it is not easy to collect data. So I decided to restrict the hypothesis in the example of the US and its politically affair tense countries; Russia and Iran. I used “the ratings of US citizens about Iranian and Russian movies” and “the ratings of Non-US people about Iranian and Russian movies” data from IMDB.
  
