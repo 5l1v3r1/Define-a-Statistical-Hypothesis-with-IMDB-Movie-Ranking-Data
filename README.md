@@ -10,7 +10,7 @@ We need two data, which are the rating data of US citizens and Non-US people abo
 ## As a result;
 - 0.9233691632171431 Pearson's r-value obtained with the data of the US and Non-US Ratings About Iranian Movies.
 - 0.96001528325696 Pearson's r-value obtained with the data of the US and Non-US Ratings About Russian Movies.
-- This strong correlation value supports the hypothesis.
+- __This strong correlation value supports the hypothesis.__
 
 
 ## Used Libraries
