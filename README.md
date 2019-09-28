@@ -14,7 +14,6 @@ We need two data, which are the rating data of US citizens and Non-US people abo
 
 
 ## Used Libraries
-- The data was scraped (collected) from imdb.com with Python BeautifulSoup library.
-- Mean, standard deviation (std) and p-value of the data were calculated by Python NumPy library. 
-- Visualizing the result by Python SeaBorn library.
-
+- The data was scraped (collected) from imdb.com with Python _BeautifulSoup_ library.
+- Mean, standard deviation (std) and p-value of the data were calculated by Python _NumPy_ library. 
+- Visualizing the result by Python _SeaBorn_ library.
